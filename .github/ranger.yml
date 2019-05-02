@@ -1,0 +1,4 @@
+# in .github/ranger.yaml
+default:
+  question:
+    message: "Something something maintainer time. Something something stack overflow."
